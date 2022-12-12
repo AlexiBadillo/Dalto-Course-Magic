@@ -36,3 +36,4 @@ if (operacion == 1) {
   alert("No se ha encontrado la operación.");
 }
 // Remember, you can also be a great programmer ;)
+// Remember, if you really need or want something about the new arrivals pls order some also
